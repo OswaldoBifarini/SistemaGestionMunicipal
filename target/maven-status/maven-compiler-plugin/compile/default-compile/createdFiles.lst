@@ -1,0 +1,13 @@
+com\mycompany\sistemagestionmunicipal\financiero\Articulo.class
+com\mycompany\sistemagestionmunicipal\recursosHumanos\Trabajador.class
+com\mycompany\sistemagestionmunicipal\recursosHumanos\Administrador.class
+com\mycompany\sistemagestionmunicipal\financiero\Persona.class
+com\mycompany\sistemagestionmunicipal\recursosHumanos\Inspector.class
+com\mycompany\sistemagestionmunicipal\recursosHumanos\ServicioEmpleado.class
+com\mycompany\sistemagestionmunicipal\recursosHumanos\Empleado.class
+com\mycompany\sistemagestionmunicipal\planificacion\Responsable.class
+com\mycompany\sistemagestionmunicipal\financiero\Factura.class
+com\mycompany\sistemagestionmunicipal\planificacion\Proyecto.class
+com\mycompany\sistemagestionmunicipal\recursosHumanos\Obrero.class
+com\mycompany\sistemagestionmunicipal\SistemaGestionMunicipal.class
+com\mycompany\sistemagestionmunicipal\planificacion\Tarea.class
